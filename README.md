@@ -5,37 +5,6 @@ Welcome to my GitHub!
 
 I'm a tech enthusiast, coder, biker, and content creator who loves turning ideas into reality. Whether it’s developing smart solutions for real-world problems or sharing my passion for tech and bikes, I bring energy and creativity into everything I do.
 
-## 🚀 What I Do
-
-- 👨‍💻 I code — Python, web dev, automation, and a sprinkle of AI/ML.
-- 🔐 I explore — Cybersecurity and its vast domains, from ethical hacking to digital forensics.
-- 🎮 I test — Game testing and QA fascinate me; I enjoy breaking games to make them better.
-- 🛠️ I build — currently working on a patent project with my team.
-- 📷 I vlog — tech, automobiles, coding, and campus life.
-- 🌿 I support sustainability — through my work with the Techno Smart Campus Club (aligned with UN SDGs).
-- 🧘 I explore spirituality — as part of the Youth Awakening Club.
-
-## 🔧 Tools & Technologies
-
-- Languages: Python, JavaScript, HTML/CSS, C++
-- Tools: Git, VS Code, Figma, Arduino, Unity (learning phase)
-- Areas: Automation, Image Processing, IoT, OpenCV, Blender, Game Dev, AR/VR, Cybersecurity basics
-
-## 🎯 Current Focus
-
-- Diving deeper into Cybersecurity and Game QA methodologies
-- Finishing up a patent with my team
-- Growing my YouTube channel (tech + bikes + mini vlogs)
-- Learning advanced game development & Blender
-- Exploring real-time AR/VR integration with sensors
-
-## 🏍️ Off the Keyboard
-
-When I’m not coding or building, I’m either on a ride with my biker group (sports, cruisers, and naked machines) or experimenting with content creation. Got a GoPro and a passion for the road.
-
----
-
-Thanks for stopping by! Let's build something epic 🚀
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/simranonthebeat0008) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gursimran_rides_a_220cc) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/gursimran-singh-saini-786b0028b) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gursimransinghsaini81@gmail.com) 
