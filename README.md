@@ -46,7 +46,7 @@ Building AI-powered applications, secure software solutions and scalable web pla
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://www.instagram.com/gursimran_rides">
+<a href="[https://www.instagram.com/gursimran_rides](https://www.instagram.com/gursimran_rides_a_220cc/)">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
